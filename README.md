@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bethany Lau</h1>
-<h3 align="center">A still-learning CS Teacher from NJ</h3>
+<h1 align="center">Hi 👋, I'm  Josh Mullin</h1>
+<h3 align="center">A third-level Computer Science student from NJ</h3>
 
 - 🔭 I’m currently working on a Game Building Project with Godot
 
